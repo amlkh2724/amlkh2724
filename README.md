@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Weightgapp]([https://github.com/amlkh2724/amazonproduct](https://github.com/amlkh2724/weightgapp-client-))
 
-- 📫 How to reach me **amlkh2724@gmail.com** [Linkedin](linkedin.com/in/aml-chanjar-61a2a3265)
+- 📫 How to reach me **amlkh2724@gmail.com** [![portfolio](https://img.shields.io/badge/Linkedin-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.linkedin.com/in/aml-chanjar-61a2a3265)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
